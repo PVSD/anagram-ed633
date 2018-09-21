@@ -8,7 +8,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner kbReader = new Scanner(System.in);
 
-        System.out.println("Type a word.");
+        System.out.println("Type in a word.");
         String wordOne = kbReader.next();
         System.out.println("Type in another word.");
         String wordTwo = kbReader.next();
